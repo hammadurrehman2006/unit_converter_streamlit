@@ -1,6 +1,3 @@
-Here’s the updated **README.md** file in Markdown format, including a "Try Demo" option with a placeholder for the deployed URL. You can copy and paste this directly into your `README.md` file.
-
----
 
 # 📊 Unit Converter App
 
@@ -24,9 +21,7 @@ A **simple yet powerful unit converter app** built using **Streamlit** and **Pyt
 
 You can try out the live demo of the app by visiting the deployed version:
 
-[**👉 Try the Demo Here!**](https://your-deployed-url.streamlit.app)
-
-*(Replace `https://your-deployed-url.streamlit.app` with your actual deployed URL.)*
+[**👉 Try the Demo Here!**](https://convert-units.streamlit.app)
 
 ---
 
@@ -40,7 +35,7 @@ You can try out the live demo of the app by visiting the deployed version:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/unit-converter-app.git
+   git clone https://github.com/hammadurrehman2006/unit_converter_streamlit.git
    cd unit-converter-app
    ```
 
